@@ -1,11 +1,11 @@
 ---
 applications:
-- name: gp-nodejs-sample
+- name: gp-nodejs-sample-sj
   services:
-    - Globalization Pipeline-ec
+    - Globalization Pipeline-i1
   disk_quota: 384M
-  host: gp-nodejs-sample
-  name: gp-nodejs-sample
+  host: gp-nodejs-sample-sj
+  name: gp-nodejs-sample-sj
   path: .
   domain: mybluemix.net
   instances: 1
